@@ -1,18 +1,12 @@
-# Next-js with VaraConnect
+# Nextwith VaraConnect
 
 ## Getting Started
 
 First, run the development server:
-
+ 
 ```bash
 npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 ## Environment Configuration
 
