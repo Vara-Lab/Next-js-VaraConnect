@@ -1,4 +1,4 @@
-# Nextwith VaraConnect
+# VaraConnect Integration for Next.js
 
 ## Getting Started
 
